@@ -2,7 +2,7 @@
 
 **Course:** Software Engineering  
 **Date:** January 2026  
-**Deliverables:** [docs/](docs/)
+**Deliverables:** [hospital/docs/](hospital/docs/)
 
 ## 🚀 Getting Started
 
